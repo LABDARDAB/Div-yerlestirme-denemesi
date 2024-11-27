@@ -1,0 +1,38 @@
+.kapsama {
+display: flex;
+border-radius: 10px;
+}
+.kapsama img{width: 20vw;border-radius: 15px;}
+p{color: white;}
+.Kisi1{background-color: gray; 
+  height: 35vh;
+   border-radius: 25px; 
+   margin-right: 5px;
+   text-align: center;
+}
+#Ad{position: relative;bottom: 50px;}
+#Yer{position: relative; bottom: 50px;font-size: 15px;}
+#A{position: relative;
+bottom: 50px;
+border-radius: 50px;
+width: 90px;
+border: 2px;color: white;
+}
+#F{width: 4vw;position: fixed;top: 10px;left: 210px;}
+#odulPuan{position: fixed;top: 5px;left: 232px;color: red;}
+hr{position: relative;bottom: 50px;width: 200px;color: white;}
+.kisi2{background-color: gray; 
+  height: 35vh;
+   border-radius: 25px; 
+   margin-right: 5px;
+   text-align: center;}
+.kisi3{background-color: gray; 
+  height: 35vh;
+   border-radius: 25px; 
+   margin-right: 5px;
+   text-align: center;}
+.kisi4{background-color: gray; 
+  height: 35vh;
+   border-radius: 25px; 
+   margin-right: 5px;
+   text-align: center;}

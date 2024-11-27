@@ -1,0 +1,29 @@
+.Saha{text-align: center;}
+.Saha img{
+  width: 100vw;
+  height: auto;
+}
+.Yazı{
+  color: yellow;
+  position: relative;
+  text-align: center;
+  top: 100px;
+  background-color: rgba(94, 255, 0, 0.25);
+}
+
+.resim1{
+  background-color: rgb(24, 23, 23,0.7);
+  width: 150px;
+  height: 35px;
+  margin-bottom: 20px;
+  text-align: left;
+  padding-top: 15px;
+  padding-left: 5;
+  position: relative;
+  bottom: 250px;
+  left: 200px;
+  color: white;
+}
+
+.resim1 img{width: 20px;}
+
